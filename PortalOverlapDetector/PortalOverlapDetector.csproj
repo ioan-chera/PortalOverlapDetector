@@ -44,8 +44,11 @@
   <ItemGroup>
     <Compile Include="ExtensionArray.cs" />
     <Compile Include="ExtensionStream.cs" />
+    <Compile Include="Island.cs" />
+    <Compile Include="Level.cs" />
     <Compile Include="Linedef.cs" />
     <Compile Include="Lump.cs" />
+    <Compile Include="Portal.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sector.cs" />
